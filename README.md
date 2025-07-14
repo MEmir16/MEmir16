@@ -1,6 +1,6 @@
 - 👋 Hi there I'm Emir
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL, JavaScript
+- 🌱 I’m currently learning SQL, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
